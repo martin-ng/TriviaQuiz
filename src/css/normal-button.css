@@ -1,0 +1,30 @@
+.n-btn {
+  display: block;
+  font: "Lato", "-apple-system", "BlinkMacSystemFont", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+  margin-left: 50px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 80%;
+  min-width: 80%;
+  max-width: 80%;
+  height: 40px;
+  border: 1px solid #d1d4d7;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+.n-btn-styling {
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.n-btn-styling:hover {
+  opacity: 1;
+  background-color: #ebf0f3;
+  border: 1px solid #4990e2;
+}

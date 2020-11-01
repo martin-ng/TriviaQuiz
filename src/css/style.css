@@ -1,0 +1,111 @@
+.answer-alert {
+  margin-left: 240px;
+  color: #4a90e2;
+}
+
+.play-again {
+  margin-left: 240px;
+  color: #4a90e2;
+}
+
+.question-container {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.question {
+  font-size: 14px;
+  margin-top: 10px;
+  margin-left: 50px;
+  font: "Lato", "-apple-system", "BlinkMacSystemFont", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: black;
+}
+
+.question-number {
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  color: #4a90e2;
+}
+
+.results-container {
+  position: relative;
+  width: 80%;
+  min-width: 600px;
+  max-width: 600px;
+  min-height: 300px;
+  max-height: 300px;
+  margin: 0 auto;
+}
+
+.results-score {
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: middle;
+  margin-left: 160px;
+  margin-top: 80px;
+  margin-bottom: 5px;
+  color: #4a90e2;
+}
+
+.trivia-container {
+  position: relative;
+  top: 250px;
+  left: 25px;
+  background-color: #ffffff;
+
+  border-width: 5px;
+  border-color: black;
+  width: 100%;
+  min-width: 600px;
+  max-width: 600px;
+  min-height: 350px;
+  max-height: 350px;
+  border: 1px solid #d1d4d7;
+  border-radius: 10px;
+}
+
+.welcome-container {
+  position: relative;
+  top: 200px;
+}
+
+.welcome-container > h3 {
+  color: #4a90e2;
+  font-size: 50px;
+}
+
+.welcome-container > button {
+  display: block;
+  font: "Lato", "-apple-system", "BlinkMacSystemFont", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+  margin-left: 50px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 80%;
+  min-width: 80%;
+  max-width: 80%;
+  height: 40px;
+  border: 1px solid #d1d4d7;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+.wc-btn-styling {
+  opacity: 0.8;
+  transition: 0.3s;
+}
+
+.wc-btn-styling:hover {
+  opacity: 1;
+  background-color: #ebf0f3;
+  border: 1px solid #4990e2;
+}
