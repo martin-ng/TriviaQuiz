@@ -9,7 +9,7 @@ Trivia Quiz is a web application designed to test users on their knowledge in Tr
 1. Trivia Quiz is built without a back-end with the assumption that the user's progress would not be tracked. In addition, trivia questions are
    provided in hard-coded JSON files and there are currently no security concerns.
 2. Trivia Quiz is developed using TypeScript, a superset of JavaScript for its static type checking and self-documenting code to encourage quality code.
-3. Fisher-Yates shuffle algorithm is implemented to ensure replayability and uniqueness as each round's question and answer selections will be in random order.
+3. Fisher-Yates shuffle algorithm is implemented to ensure replayability and uniqueness as each round's questions and multiple choices will be in random order.
 4. Jest and Enzyme was utilized for Trivia Quiz's automated test suite to conduct front-end and API testing.
 5. Trivia Quiz's front-end is developed with React for its performant virtual DOM and ability to create reusable and extensible components.
 
