@@ -4,7 +4,7 @@
 
 Trivia Quiz is a web application designed to test users on their knowledge in Trivia.
 Please visit the following link:
-[trivia-quizapp.netlify.app](I'm an inline-style link](https://www.google.com)
+[trivia-quizapp.netlify.app](trivia-quizapp.netlify.app)
 
 ## Dev Initial Gatherings
 
