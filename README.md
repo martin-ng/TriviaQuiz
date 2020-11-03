@@ -3,6 +3,8 @@
 ## Introduction
 
 Trivia Quiz is a web application designed to test users on their knowledge in Trivia.
+Please visit the following link:
+[trivia-quizapp.netlify.app]
 
 ## Dev Initial Gatherings
 
